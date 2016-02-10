@@ -4,6 +4,8 @@ Amazing resources for crazy sysadmins && Drupal lovers
 ## Table of contents
 * [ Awesome Sysadmin Tools ]
   * [Drupal](#drupal)
+  * [Hacking](#hacking)
+  * [iptables](#iptables)
   * [PHP](#php)
   * [Nginx](#nginx)
   * [SSL](#ssl)
@@ -18,20 +20,30 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [BlazeMeter Module for Load and Performance Testing](https://www.drupal.org/project/blazemeter)
 * [Drupal Performance Best Practices](https://drupalwatchdog.com/volume-2/issue-1/drupal-performance-best-practices)
 
+## iptables
+
+* [Firewall Builder](http://www.fwbuilder.org/) - Firewall Builder makes it easy to configure your firewalls.
+* [The uncomplicated firewall](https://www.lullabot.com/articles/the-uncomplicated-firewall)
+* [Iptables boilerplate](https://github.com/bmaeser/iptables-boilerplate)
+
+## Hacking
+
+* [Medusa](http://foofus.net/goons/jmk/medusa/medusa.html) - Speedy, massively parallel, modular, login brute-forcer
+* [Hydra](https://www.thc.org/thc-hydra/) - A very fast network logon cracker which support many different services
+
 ## Nginx
 *Resources related to Nginx web server.*
 
 * [Prevent search engines from indexing your development server](http://www.improvi.in/nginx-prevent-search-engines-from-indexing-your-development-server/)
 * [Nginx reverse proxy with Odoo](http://www.schenkels.nl/2014/12/reverse-proxy-with-odoo-8-nginx-ubuntu-14-04-lts/)
 
-# PHP
+## PHP
 *Resources related to PHP.*
 
 * [PHP-FPM: Socket vs TCP/IP and sysctl tweaking](https://easyengine.io/tutorials/php/fpm-sysctl-tweaking/)
 * [php-farm: Tool to install multiple versions of PHP beside each other](https://github.com/cweiske/phpfarm)
 
 ## SSL
-
 *SSL tools.*
 
 * [Let's Encrypt](https://letsencrypt.org/) - Free, automated and open Certificate Authority.
