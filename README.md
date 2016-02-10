@@ -3,7 +3,9 @@ Amazing resources for crazy sysadmins && Drupal lovers
 
 ## Table of contents
 * [ Awesome Sysadmin Tools ]
+  * [Cloud Providers](#cloud)
   * [Debian](#debian)
+  * [DeepWeb](#deepweb)
   * [Drupal](#drupal)
   * [Hacking](#hacking)
   * [iptables](#iptables)
@@ -12,10 +14,27 @@ Amazing resources for crazy sysadmins && Drupal lovers
   * [smtp](#smtp)
   * [SSL](#ssl)
 
+## Cloud Providers
+*Cloud providers successfully tested*
+* [Digital Ocean](http://www.digitalocean.com)
+* [RunAbove](https://www.runabove.com) - Runabove is the innovation brand of the OVH Group.
+* [Vultr](https://www.vultr.com/)
+* [Virpus](http://virpus.com/)
+
 ## Debian
 *Resources for Debian GNU/Linux Sysadmins*
 
 * [Debian sources list generator](http://debgen.simplylinux.ch/)
+
+*Packages: simplify our daily work*
+* [sysv-rc-conf](http://sysv-rc-conf.sourceforge.net/) - Easy to use interface for managing /etc/rc{runlevel}.d/ symlink
+* [mmv](http://ss64.com/bash/mmv.html) - Mass Move and rename - Move, copy, append or link Multiple files using wildcard patterns - Thanks to [Mario Barcala](https://twitter.com/mario_barcala)
+* [terminator](https://packages.debian.org/es/sid/terminator) - A little project to produce an efficient way of filling a large area of screen space with terminals.
+
+
+## DeepWeb
+
+* [Squid+Privoxy+Tor](http://wiki.vpsget.com/index.php/Squid%2BPrivoxy%2BTor)
 
 ## Drupal
 
@@ -53,6 +72,7 @@ Amazing resources for crazy sysadmins && Drupal lovers
 
 * [PHP-FPM: Socket vs TCP/IP and sysctl tweaking](https://easyengine.io/tutorials/php/fpm-sysctl-tweaking/)
 * [php-farm: Tool to install multiple versions of PHP beside each other](https://github.com/cweiske/phpfarm)
+* [Multiple PHP versions, precompiled and ready-to-use packages ](https://www.liveconfig.com/wiki/en/multiphp)
 
 ## smtp
 
@@ -61,6 +81,18 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [Sendgrid](https://sendgrid.com/)
 * [Mandrill](https://www.mandrill.com/)
 * [MailJet](https://es.mailjet.com/)
+
+*RBL check*
+
+* [The Anti-Abuse Project](http://www.anti-abuse.org/multi-rbl-check/)
+* [DNSBL](http://www.dnsbl.info/dnsbl-list.php)
+* [Symantec IP Reputation Investigation](http://ipremoval.sms.symantec.com/lookup/)
+* [MXToolBox - Blacklist Checker](http://mxtoolbox.com/blacklists.aspx)
+
+*Postfix*
+* [Sending bulk emails with Postfix and Haproxy](http://www.servercraftmen.com/sending-bulk-emails-postfix-haproxy/)
+* [Postfix load balancing and High Availability](http://www.linuxpcfix.com/postfix-load-balancing-and-high-availability-with-haproxy/)
+* [H.A. para SMTP: Haproxy + Postfix](https://respirandolinux.wordpress.com/2015/08/07/h-a-para-smtp-haproxy-postfix/)
 
 ## SSL
 *SSL tools.*
