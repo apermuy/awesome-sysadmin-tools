@@ -3,12 +3,18 @@ Amazing resources for crazy sysadmins && Drupal lovers
 
 ## Table of contents
 * [ Awesome Sysadmin Tools ]
+  * [Debian](#debian)
   * [Drupal](#drupal)
   * [Hacking](#hacking)
   * [iptables](#iptables)
   * [PHP](#php)
   * [Nginx](#nginx)
   * [SSL](#ssl)
+
+## Debian
+*Resources for Debian GNU/Linux Sysadmins*
+
+* [Debian sources list generator](http://debgen.simplylinux.ch/)
 
 ## Drupal
 
@@ -34,6 +40,10 @@ Amazing resources for crazy sysadmins && Drupal lovers
 ## Nginx
 *Resources related to Nginx web server.*
 
+* [Blocking TOR on Nginx](http://www.reaper-x.com/2012/05/15/how-to-block-tor-on-apache-and-nginx/) - If you ever want to block TOR users from your accessing website completely or block them from accessing specific...
+* [How To Optimize Nginx Configuration](https://www.digitalocean.com/community/tutorials/how-to-optimize-nginx-configuration)
+* [Optimizing Nginx webserver](https://tweaked.io/guide/nginx/)
+* [Optimizing Nginx reverse proxy](https://tweaked.io/guide/nginx-proxying/)
 * [Prevent search engines from indexing your development server](http://www.improvi.in/nginx-prevent-search-engines-from-indexing-your-development-server/)
 * [Nginx reverse proxy with Odoo](http://www.schenkels.nl/2014/12/reverse-proxy-with-odoo-8-nginx-ubuntu-14-04-lts/)
 
