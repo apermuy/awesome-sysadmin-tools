@@ -9,6 +9,7 @@ Amazing resources for crazy sysadmins && Drupal lovers
   * [iptables](#iptables)
   * [PHP](#php)
   * [Nginx](#nginx)
+  * [smtp](#smtp)
   * [SSL](#ssl)
 
 ## Debian
@@ -52,6 +53,14 @@ Amazing resources for crazy sysadmins && Drupal lovers
 
 * [PHP-FPM: Socket vs TCP/IP and sysctl tweaking](https://easyengine.io/tutorials/php/fpm-sysctl-tweaking/)
 * [php-farm: Tool to install multiple versions of PHP beside each other](https://github.com/cweiske/phpfarm)
+
+## smtp
+
+*Relayhost providers*
+
+* [Sendgrid](https://sendgrid.com/)
+* [Mandrill](https://www.mandrill.com/)
+* [MailJet](https://es.mailjet.com/)
 
 ## SSL
 *SSL tools.*
