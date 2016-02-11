@@ -25,6 +25,7 @@ Amazing resources for crazy sysadmins && Drupal lovers
 *Resources for Debian GNU/Linux Sysadmins*
 
 * [Debian sources list generator](http://debgen.simplylinux.ch/)
+* [dotdeb](https://www.dotdeb.org)Dotdeb is an extra repository providing up-to-date packages for your Debian servers : nginx, php, mysql, zabbix...
 
 *Packages: simplify our daily work*
 * [sysv-rc-conf](http://sysv-rc-conf.sourceforge.net/) - Easy to use interface for managing /etc/rc{runlevel}.d/ symlink
@@ -46,6 +47,9 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [BlazeMeter Module for Load and Performance Testing](https://www.drupal.org/project/blazemeter)
 * [Drupal Performance Best Practices](https://drupalwatchdog.com/volume-2/issue-1/drupal-performance-best-practices)
 
+*Awesome Drupal resources*
+* [SimplyTest](https://simplytest.me) - Evaluate Drupal projects online
+
 ## iptables
 
 * [Firewall Builder](http://www.fwbuilder.org/) - Firewall Builder makes it easy to configure your firewalls.
@@ -58,7 +62,7 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [Hydra](https://www.thc.org/thc-hydra/) - A very fast network logon cracker which support many different services
 
 ## Nginx
-*Resources related to Nginx web server.*
+*Resources related to Nginx web server*
 
 * [Blocking TOR on Nginx](http://www.reaper-x.com/2012/05/15/how-to-block-tor-on-apache-and-nginx/) - If you ever want to block TOR users from your accessing website completely or block them from accessing specific...
 * [How To Optimize Nginx Configuration](https://www.digitalocean.com/community/tutorials/how-to-optimize-nginx-configuration)
@@ -68,11 +72,12 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [Nginx reverse proxy with Odoo](http://www.schenkels.nl/2014/12/reverse-proxy-with-odoo-8-nginx-ubuntu-14-04-lts/)
 
 ## PHP
-*Resources related to PHP.*
+*Resources related to PHP*
 
-* [PHP-FPM: Socket vs TCP/IP and sysctl tweaking](https://easyengine.io/tutorials/php/fpm-sysctl-tweaking/)
-* [php-farm: Tool to install multiple versions of PHP beside each other](https://github.com/cweiske/phpfarm)
-* [Multiple PHP versions, precompiled and ready-to-use packages ](https://www.liveconfig.com/wiki/en/multiphp)
+* [phansible](http://phansible.com) - Phansible provides an easy-to-use interface that helps you generate Ansible provisionings for PHP-based projects
+* [asm/ansible]() - php wrapper for ansible commands.
+* [php-farm](https://github.com/cweiske/phpfarm) - Tool to install multiple versions of PHP beside each other.
+* [multiphp](https://www.liveconfig.com/wiki/en/multiphp) - Multiple PHP versions, precompiled and ready-to-use packages.
 
 ## smtp
 
@@ -95,7 +100,9 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [H.A. para SMTP: Haproxy + Postfix](https://respirandolinux.wordpress.com/2015/08/07/h-a-para-smtp-haproxy-postfix/)
 
 ## SSL
-*SSL tools.*
+*SSL tools*
 
+* [CSR Decoder Tool](https://www.viux.com/ssl-certificates/ssl-tools/decode-csr)
 * [Let's Encrypt](https://letsencrypt.org/) - Free, automated and open Certificate Authority.
+* [Symantec Crypto Report](https://cryptoreport.websecurity.symantec.com/checker/) - Check your SSL/TLS certificate installation.
 * [SSL Server Test](https://dev.ssllabs.com/ssltest) - This free online service performs a deep analysis of the configuration of any SSL web server on the public Internet.This free online service performs a deep analysis of the configuration of any SSL web server on the public Internet.
