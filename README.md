@@ -105,4 +105,4 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [CSR Decoder Tool](https://www.viux.com/ssl-certificates/ssl-tools/decode-csr)
 * [Let's Encrypt](https://letsencrypt.org/) - Free, automated and open Certificate Authority.
 * [Symantec Crypto Report](https://cryptoreport.websecurity.symantec.com/checker/) - Check your SSL/TLS certificate installation.
-* [SSL Server Test](https://dev.ssllabs.com/ssltest) - This free online service performs a deep analysis of the configuration of any SSL web server on the public Internet.This free online service performs a deep analysis of the configuration of any SSL web server on the public Internet.
+* [SSL Server Test](https://dev.ssllabs.com/ssltest) - This free online service performs a deep analysis of the configuration of any SSL web server on the public Internet.
