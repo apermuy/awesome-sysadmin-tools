@@ -26,6 +26,7 @@ Amazing resources for crazy sysadmins && Drupal lovers
 
 * [Debian sources list generator](http://debgen.simplylinux.ch/)
 * [dotdeb](https://www.dotdeb.org)Dotdeb is an extra repository providing up-to-date packages for your Debian servers : nginx, php, mysql, zabbix...
+* [Vuurmuur Firewall](https://www.vuurmuur.org/trac/wiki/Download#DebianandUbuntu) -  Powerful firewall manager built on top of ​iptables on Linux
 
 *Packages: simplify our daily work*
 * [sysv-rc-conf](http://sysv-rc-conf.sourceforge.net/) - Easy to use interface for managing /etc/rc{runlevel}.d/ symlink
