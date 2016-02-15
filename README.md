@@ -32,6 +32,7 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [sysv-rc-conf](http://sysv-rc-conf.sourceforge.net/) - Easy to use interface for managing /etc/rc{runlevel}.d/ symlink
 * [mmv](http://ss64.com/bash/mmv.html) - Mass Move and rename - Move, copy, append or link Multiple files using wildcard patterns - Thanks to [Mario Barcala](https://twitter.com/mario_barcala)
 * [terminator](https://packages.debian.org/es/sid/terminator) - A little project to produce an efficient way of filling a large area of screen space with terminals.
+* [gpgdir](http://manpages.ubuntu.com/manpages/utopic/man1/gpgdir.1.html) - Recursive directory encryption with GnuPG
 
 
 ## DeepWeb
