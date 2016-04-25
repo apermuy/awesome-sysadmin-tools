@@ -44,6 +44,8 @@ Amazing resources for crazy sysadmins && Drupal lovers
 *Drupal 8*
 
 * [Drupal 8 deployment and continuous integration](https://prague2013.drupal.org/session/drupal-8-deployment-and-continuous-integration.html)
+* [Drupal Console -- Official site](https://drupalconsole.com)
+* [Drupal Console -- Drupal.org project](https://www.drupal.org/project/console)
 
 *Drupal Performance*
 * [BlazeMeter Module for Load and Performance Testing](https://www.drupal.org/project/blazemeter)
