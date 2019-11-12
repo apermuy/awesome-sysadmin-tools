@@ -93,6 +93,7 @@ Amazing resources for crazy sysadmins && Drupal lovers
 ## PHP
 *Resources related to PHP*
 
+* [PHP The Right Way](https://phptherightway.com/)  - PHP: The Right Way is an easy-to-read, quick reference for PHP popular coding standards
 * [phansible](http://phansible.com) - Phansible provides an easy-to-use interface that helps you generate Ansible provisionings for PHP-based projects
 * [asm/ansible]() - php wrapper for ansible commands.
 * [php-farm](https://github.com/cweiske/phpfarm) - Tool to install multiple versions of PHP beside each other.
