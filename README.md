@@ -71,6 +71,9 @@ Amazing resources for crazy sysadmins && Drupal lovers
 *2FA*
 * [https://authy.com/](https://authy.com/)
 
+*sharing*
+* [https://gitlab.com/timvisee/ffsend]ffsend - Easily and securely share files from the command line. A fully featured Firefox Send client
+
 ## Hacking
 
 * [Medusa](http://foofus.net/goons/jmk/medusa/medusa.html) - Speedy, massively parallel, modular, login brute-forcer
