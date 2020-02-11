@@ -111,6 +111,7 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [Mandrill](https://www.mandrill.com/)
 * [MailJet](https://es.mailjet.com/)
 * [Mailgun](https://www.mailgun.com/)
+* [Mailrelay](https://mailrelay.com/)
 
 *RBL check*
 
@@ -118,6 +119,7 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [DNSBL](http://www.dnsbl.info/dnsbl-list.php)
 * [Symantec IP Reputation Investigation](http://ipremoval.sms.symantec.com/lookup/)
 * [MXToolBox - Blacklist Checker](http://mxtoolbox.com/blacklists.aspx)
+* [The Spamhaus project](https://www.spamhaus.org/)
 
 *Postfix*
 * [Sending bulk emails with Postfix and Haproxy](http://www.servercraftmen.com/sending-bulk-emails-postfix-haproxy/)
