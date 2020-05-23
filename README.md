@@ -99,6 +99,12 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [NginxConfig.io ](https://nginxconfig.io/)  
 * [A Guide to Caching with NGINX and NGINX Plus](https://www.nginx.com/blog/nginx-caching-guide/)
 
+### Hiawatha
+*Resources related to Hiawatha web server*
+
+* [Official site](https://www.hiawatha-webserver.org/) - An advanced and secure webserver for Unix
+
+
 ## PHP
 *Resources related to PHP*
 
