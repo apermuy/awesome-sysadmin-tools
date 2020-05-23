@@ -59,7 +59,8 @@ Amazing resources for crazy sysadmins && Drupal lovers
 
 * [sitespeed.io](https://www.sitespeed.io/) - Sitespeed.io is a set of Open Source tools that makes it easy to monitor and measure the performance of your web site
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
-* [gtmetrix](https://gtmetrix.com/) - See how your site performs, reveal why it's slow and discover optimization opportunities.  
+* [gtmetrix](https://gtmetrix.com/) - See how your site performs, reveal why it's slow and discover optimization opportunities.
+* [gatling](https://gatling.io/open-source/) - A powerful open-source load testing solution.
 
 ## Security
 
@@ -67,6 +68,9 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [Firewall Builder](http://www.fwbuilder.org/) - Firewall Builder makes it easy to configure your firewalls.
 * [The uncomplicated firewall](https://www.lullabot.com/articles/the-uncomplicated-firewall)
 * [Iptables boilerplate](https://github.com/bmaeser/iptables-boilerplate)
+
+*OpenVPN*
+* [openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux
 
 *2FA*
 * [https://authy.com/](https://authy.com/)
@@ -78,6 +82,8 @@ Amazing resources for crazy sysadmins && Drupal lovers
 
 * [Medusa](http://foofus.net/goons/jmk/medusa/medusa.html) - Speedy, massively parallel, modular, login brute-forcer
 * [Hydra](https://www.thc.org/thc-hydra/) - A very fast network logon cracker which support many different services
+* [DNSDumpster](https://dnsdumpster.com/) - Find dns records in order to identify the Internet footprint of an organization
+* [sqlmap](http://sqlmap.org/) - Automatic SQL injection and database takeover tool
 
 ## Webservers
 
