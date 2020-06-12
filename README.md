@@ -14,6 +14,7 @@ Amazing resources for crazy sysadmins && Drupal lovers
   * [Webservers](#webservers)
   * [smtp](#smtp)
   * [SSL](#ssl)
+  * [dns](#dns)
 
 ## CloudProviders
 *Cloud providers successfully tested*
@@ -82,7 +83,7 @@ Amazing resources for crazy sysadmins && Drupal lovers
 
 * [Medusa](http://foofus.net/goons/jmk/medusa/medusa.html) - Speedy, massively parallel, modular, login brute-forcer
 * [Hydra](https://www.thc.org/thc-hydra/) - A very fast network logon cracker which support many different services
-* [DNSDumpster](https://dnsdumpster.com/) - Find dns records in order to identify the Internet footprint of an organization
+* [dns recon & research, find & lookup dns records](https://dnsdumpster.com/) - DNSdumpster.com is a FREE domain research tool that can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process.
 * [sqlmap](http://sqlmap.org/) - Automatic SQL injection and database takeover tool
 
 ## Webservers
@@ -127,6 +128,8 @@ Amazing resources for crazy sysadmins && Drupal lovers
 
 *RBL check*
 
+* [AbuseIPDB](https://www.abuseipdb.com/) - Making the internet safer, one IP at a time
+
 * [The Anti-Abuse Project](http://www.anti-abuse.org/multi-rbl-check/)
 * [DNSBL](http://www.dnsbl.info/dnsbl-list.php)
 * [Symantec IP Reputation Investigation](http://ipremoval.sms.symantec.com/lookup/)
@@ -145,3 +148,11 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [Let's Encrypt](https://letsencrypt.org/) - Free, automated and open Certificate Authority.
 * [Symantec Crypto Report](https://cryptoreport.websecurity.symantec.com/checker/) - Check your SSL/TLS certificate installation.
 * [SSL Server Test](https://dev.ssllabs.com/ssltest) - This free online service performs a deep analysis of the configuration of any SSL web server on the public Internet.
+
+## DNS
+*dns tools*
+
+* [DNS historical data](https://securitytrails.com/domain/www.github.com/history/a) - Get historical DNS historical data and other cool stuff.
+* [DNS Checker](https://dnschecker.org/) - DNS check propagation tool.
+* [DNS Perf](https://www.dnsperf.com/dns-speed-benchmark/) - DNS Speed Benchmark
+
