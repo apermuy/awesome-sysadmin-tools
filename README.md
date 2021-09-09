@@ -85,6 +85,7 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [Hydra](https://www.thc.org/thc-hydra/) - A very fast network logon cracker which support many different services
 * [dns recon & research, find & lookup dns records](https://dnsdumpster.com/) - DNSdumpster.com is a FREE domain research tool that can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process.
 * [sqlmap](http://sqlmap.org/) - Automatic SQL injection and database takeover tool
+* [nuclei] (https://nuclei.projectdiscovery.io) -  Community Powered Vulnerability Scanner 
 * [wapiti](https://sourceforge.net/projects/wapiti/) - Wapiti is a vulnerability scanner for web applications
 * [Vega](https://subgraph.com/vega/) -  Free and open source web security scanner and web security testing platform to test the security of web applications 
 * [w3af](http://w3af.org/) - Web Application Attack and Audit Framework  
