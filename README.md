@@ -43,7 +43,7 @@ Amazing resources for crazy sysadmins && Drupal lovers
 
 ## Drupal
 
-*Drupal 8*
+*Drupal*
 
 * [Drupal 8 deployment and continuous integration](https://prague2013.drupal.org/session/drupal-8-deployment-and-continuous-integration.html)
 * [Drupal Console -- Official site](https://drupalconsole.com)
@@ -78,6 +78,10 @@ Amazing resources for crazy sysadmins && Drupal lovers
 
 *sharing*
 * [https://gitlab.com/timvisee/ffsend]ffsend - Easily and securely share files from the command line. A fully featured Firefox Send client
+
+*tools*
+
+* [Geekflare Tools](https://gf.dev/toolbox) - Toolbox for DNS, HTTP, Headers and other stuff.
 
 ## Hacking
 
