@@ -72,6 +72,7 @@ Amazing resources for crazy sysadmins && Drupal lovers
 
 *OpenVPN*
 * [openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux
+* [pritunl client](https://client.pritunl.com/) - Free and open source cross platform OpenVPN client
 
 *2FA*
 * [https://authy.com/](https://authy.com/)
@@ -142,6 +143,7 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [Symantec IP Reputation Investigation](http://ipremoval.sms.symantec.com/lookup/)
 * [MXToolBox - Blacklist Checker](http://mxtoolbox.com/blacklists.aspx)
 * [The Spamhaus project](https://www.spamhaus.org/)
+* [mail tester](https://www.mail-tester.com/) - Test the Spammyness of your Emails
 
 *Postfix*
 * [Sending bulk emails with Postfix and Haproxy](http://www.servercraftmen.com/sending-bulk-emails-postfix-haproxy/)
@@ -162,4 +164,3 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [DNS historical data](https://securitytrails.com/domain/www.github.com/history/a) - Get historical DNS historical data and other cool stuff.
 * [DNS Checker](https://dnschecker.org/) - DNS check propagation tool.
 * [DNS Perf](https://www.dnsperf.com/dns-speed-benchmark/) - DNS Speed Benchmark
-
