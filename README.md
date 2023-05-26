@@ -37,6 +37,10 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [gpgdir](http://manpages.ubuntu.com/manpages/utopic/man1/gpgdir.1.html) - Recursive directory encryption with GnuPG
 
 
+## Linux/Unix toolbox
+ * [fzf](https://github.com/junegunn/fzf) - An interactive Unix filter for command-line that can be used with any list; files, command history, processes, hostnames, bookmarks, git commits, etc.
+
+
 ## DeepWeb
 
 * [Squid+Privoxy+Tor](http://wiki.vpsget.com/index.php/Squid%2BPrivoxy%2BTor)
@@ -83,6 +87,8 @@ Amazing resources for crazy sysadmins && Drupal lovers
 *tools*
 
 * [Geekflare Tools](https://gf.dev/toolbox) - Toolbox for DNS, HTTP, Headers and other stuff.
+* [SecLists](https://github.com/danielmiessler/SecLists) - A collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+
 
 ## Hacking
 
