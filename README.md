@@ -88,6 +88,9 @@ Amazing resources for crazy sysadmins && Drupal lovers
 
 * [Geekflare Tools](https://gf.dev/toolbox) - Toolbox for DNS, HTTP, Headers and other stuff.
 * [SecLists](https://github.com/danielmiessler/SecLists) - A collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+* [sendsafely](https://www.sendsafely.com/) - The end-to-end encryption platform for modern business
+* [onetimesecret](https://onetimesecret.com/) - A way to share sensitive information that's both simple and secure.
+* [ffsend](https://github.com/timvisee/ffsend) - Easily and securely share files and directories from the command line through a safe, private and encrypted link using a single simple command.
 
 
 ## Hacking
