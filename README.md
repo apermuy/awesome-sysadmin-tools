@@ -91,6 +91,7 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [sendsafely](https://www.sendsafely.com/) - The end-to-end encryption platform for modern business
 * [onetimesecret](https://onetimesecret.com/) - A way to share sensitive information that's both simple and secure.
 * [ffsend](https://github.com/timvisee/ffsend) - Easily and securely share files and directories from the command line through a safe, private and encrypted link using a single simple command.
+* [sharedrop](https://www.sharedrop.io/) - ShareDrop is a peer-to-peer file sharing app powered by HTML5 WebRTC.
 
 
 ## Hacking
