@@ -93,6 +93,8 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [ffsend](https://github.com/timvisee/ffsend) - Easily and securely share files and directories from the command line through a safe, private and encrypted link using a single simple command.
 * [sharedrop](https://www.sharedrop.io/) - ShareDrop is a peer-to-peer file sharing app powered by HTML5 WebRTC.
 * [tmate](https://tmate.io/) - tmate is a fork of tmux. tmate and tmux can coexist on the same system. tmate is used for remote access only (as opposed to pair programming), it is useful to launch tmate in foreground mode with tmate -F. 
+* [xpipe](https://github.com/xpipe-io/xpipe) - A new type of shell connection hub and remote file manager that allows you to access your entire sever infrastructure from your local machine.
+
 
 
 ## Hacking
