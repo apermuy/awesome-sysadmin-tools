@@ -27,11 +27,12 @@ Amazing resources for crazy sysadmins && Drupal lovers
 *Resources for Debian GNU/Linux Sysadmins*
 
 * [Debian sources list generator](http://debgen.simplylinux.ch/)
-* [dotdeb](https://www.dotdeb.org)Dotdeb is an extra repository providing up-to-date packages for your Debian servers : nginx, php, mysql, zabbix...
+
 * [Vuurmuur Firewall](https://www.vuurmuur.org/trac/wiki/Download#DebianandUbuntu) -  Powerful firewall manager built on top of ​iptables on Linux
 
 *Packages: simplify our daily work*
 * [sysv-rc-conf](http://sysv-rc-conf.sourceforge.net/) - Easy to use interface for managing /etc/rc{runlevel}.d/ symlink
+* [deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download. It works on Debian, Ubuntu and their derivative distributions.
 * [mmv](http://ss64.com/bash/mmv.html) - Mass Move and rename - Move, copy, append or link Multiple files using wildcard patterns - Thanks to [Mario Barcala](https://twitter.com/mario_barcala)
 * [terminator](https://packages.debian.org/es/sid/terminator) - A little project to produce an efficient way of filling a large area of screen space with terminals.
 * [gpgdir](http://manpages.ubuntu.com/manpages/utopic/man1/gpgdir.1.html) - Recursive directory encryption with GnuPG
@@ -39,7 +40,8 @@ Amazing resources for crazy sysadmins && Drupal lovers
 
 ## Linux/Unix toolbox
  * [fzf](https://github.com/junegunn/fzf) - An interactive Unix filter for command-line that can be used with any list; files, command history, processes, hostnames, bookmarks, git commits, etc.
-
+ * [dutree](https://github.com/nachoparker/dutree) - a tool to analyze file system usage written in Rust
+ * [gdu](https://github.com/dundee/gdu) - Pretty fast disk usage analyzer written in Go.
 
 ## DeepWeb
 
