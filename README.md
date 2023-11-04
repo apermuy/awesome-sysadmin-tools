@@ -24,24 +24,35 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [OVH](https://www.ovh.es/)
 
 ## Debian
-*Resources for Debian GNU/Linux Sysadmins*
+*Resources for Debian GNU/Linux Sysadmins* 🐧
 
+* [deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download. It works on Debian, Ubuntu and their derivative distributions.
 * [Debian sources list generator](http://debgen.simplylinux.ch/)
-
 * [Vuurmuur Firewall](https://www.vuurmuur.org/trac/wiki/Download#DebianandUbuntu) -  Powerful firewall manager built on top of ​iptables on Linux
 
+
+*Terminals*
+
+* [kitty](https://sw.kovidgoyal.net/kitty/) - The fast, feature-rich, GPU based terminal emulator
+* [alacritty](https://github.com/alacritty/alacritty) - Alacritty - A fast, cross-platform, OpenGL terminal emulator
+
+
+*Shells*
+
+* [fish](https://fishshell.com/) - A smart and user-friendly command line shell for Linux, macOS, and the rest of the family.
+* [omyzsh](https://ohmyz.sh/) - a delightful, open source, community-driven framework for managing your Zsh configuration.
+* [elvish](https://elv.sh/) - An expressive programming language and a versatile interactive shell, combined into one seamless package. It runs on Linux, BSDs, macOS and Windows.
+
 *Packages: simplify our daily work*
+
 * [sysv-rc-conf](http://sysv-rc-conf.sourceforge.net/) - Easy to use interface for managing /etc/rc{runlevel}.d/ symlink
-* [deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download. It works on Debian, Ubuntu and their derivative distributions.
 * [mmv](http://ss64.com/bash/mmv.html) - Mass Move and rename - Move, copy, append or link Multiple files using wildcard patterns - Thanks to [Mario Barcala](https://twitter.com/mario_barcala)
 * [terminator](https://packages.debian.org/es/sid/terminator) - A little project to produce an efficient way of filling a large area of screen space with terminals.
 * [gpgdir](http://manpages.ubuntu.com/manpages/utopic/man1/gpgdir.1.html) - Recursive directory encryption with GnuPG
-
-
-## Linux/Unix toolbox
- * [fzf](https://github.com/junegunn/fzf) - An interactive Unix filter for command-line that can be used with any list; files, command history, processes, hostnames, bookmarks, git commits, etc.
- * [dutree](https://github.com/nachoparker/dutree) - a tool to analyze file system usage written in Rust
- * [gdu](https://github.com/dundee/gdu) - Pretty fast disk usage analyzer written in Go.
+* [fzf](https://github.com/junegunn/fzf) - An interactive Unix filter for command-line that can be used with any list; files, command history, processes, hostnames, bookmarks, git commits, etc.
+* [dutree](https://github.com/nachoparker/dutree) - a tool to analyze file system usage written in Rust
+* [gdu](https://github.com/dundee/gdu) - Pretty fast disk usage analyzer written in Go.
+* [dufs](https://github.com/sigoden/dufs) - a distinctive utility file server that supports static serving, uploading, searching, accessing control, webdav..
 
 ## DeepWeb
 
@@ -77,7 +88,8 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [Iptables boilerplate](https://github.com/bmaeser/iptables-boilerplate)
 
 *OpenVPN*
-* [openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux
+* [openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch 
+Linux
 * [pritunl client](https://client.pritunl.com/) - Free and open source cross platform OpenVPN client
 
 *2FA*
@@ -128,7 +140,6 @@ Amazing resources for crazy sysadmins && Drupal lovers
 *Resources related to Hiawatha web server*
 
 * [Official site](https://www.hiawatha-webserver.org/) - An advanced and secure webserver for Unix
-
 
 ## PHP
 *Resources related to PHP*
