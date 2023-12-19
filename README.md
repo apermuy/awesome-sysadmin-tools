@@ -52,7 +52,9 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [fzf](https://github.com/junegunn/fzf) - An interactive Unix filter for command-line that can be used with any list; files, command history, processes, hostnames, bookmarks, git commits, etc.
 * [dutree](https://github.com/nachoparker/dutree) - a tool to analyze file system usage written in Rust
 * [gdu](https://github.com/dundee/gdu) - Pretty fast disk usage analyzer written in Go.
-* [dufs](https://github.com/sigoden/dufs) - a distinctive utility file server that supports static serving, uploading, searching, accessing control, webdav..
+* [dufs](https://github.com/sigoden/dufs) - a distinctive utility file server that supports static serving, uploading, searching, accessing control, webdav.
+* [.tmux](https://github.com/gpakosz/.tmux) Self-contained, pretty and versatile .tmux.conf configuration file.
+* [Mosh - The mobile shell](https://mosh.org/).Remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line editing of user keystrokes.
 
 ## DeepWeb
 
