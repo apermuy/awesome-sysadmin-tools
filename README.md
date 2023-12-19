@@ -110,6 +110,8 @@ Linux
 * [sharedrop](https://www.sharedrop.io/) - ShareDrop is a peer-to-peer file sharing app powered by HTML5 WebRTC.
 * [tmate](https://tmate.io/) - tmate is a fork of tmux. tmate and tmux can coexist on the same system. tmate is used for remote access only (as opposed to pair programming), it is useful to launch tmate in foreground mode with tmate -F. 
 * [xpipe](https://github.com/xpipe-io/xpipe) - A new type of shell connection hub and remote file manager that allows you to access your entire sever infrastructure from your local machine.
+* [QuickRef.ME](https://quickref.me/) - Here are some cheatsheets and quick references contributed by open source angels.
+
 
 
 
