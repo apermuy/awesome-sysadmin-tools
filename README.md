@@ -4,7 +4,7 @@ Amazing resources for crazy sysadmins && Drupal lovers
 ## Table of contents
 
   * [Cloud Providers](#cloudproviders)
-  * [Debian](#debian)
+  * [Linux](#Linux)
   * [DeepWeb](#deepweb)
   * [Drupal](#drupal)
   * [WPO](#wpo)
@@ -23,8 +23,10 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [Virpus](http://virpus.com/)
 * [OVH](https://www.ovh.es/)
 
-## Debian
-*Resources for Debian GNU/Linux Sysadmins* 🐧
+## Linux
+*Resources for Linux Sysadmins* 🐧
+
+*Debian GNU/Linux*
 
 * [deb-get](https://github.com/wimpysworld/deb-get) - apt-get functionality for .debs published in 3rd party repositories or via direct download. It works on Debian, Ubuntu and their derivative distributions.
 * [Debian sources list generator](http://debgen.simplylinux.ch/)
@@ -43,7 +45,7 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [omyzsh](https://ohmyz.sh/) - a delightful, open source, community-driven framework for managing your Zsh configuration.
 * [elvish](https://elv.sh/) - An expressive programming language and a versatile interactive shell, combined into one seamless package. It runs on Linux, BSDs, macOS and Windows.
 
-*Packages: simplify our daily work*
+*Packages and tools: simplify our daily work*
 
 * [sysv-rc-conf](http://sysv-rc-conf.sourceforge.net/) - Easy to use interface for managing /etc/rc{runlevel}.d/ symlink
 * [mmv](http://ss64.com/bash/mmv.html) - Mass Move and rename - Move, copy, append or link Multiple files using wildcard patterns - Thanks to [Mario Barcala](https://twitter.com/mario_barcala)
@@ -55,6 +57,9 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [dufs](https://github.com/sigoden/dufs) - a distinctive utility file server that supports static serving, uploading, searching, accessing control, webdav.
 * [.tmux](https://github.com/gpakosz/.tmux) Self-contained, pretty and versatile .tmux.conf configuration file.
 * [Mosh - The mobile shell](https://mosh.org/).Remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line editing of user keystrokes.
+* [scrutiny](https://github.com/AnalogJ/scrutiny) - WebUI for smartd S.M.A.R.T monitoring
+
+
 
 ## DeepWeb
 
@@ -100,7 +105,7 @@ Linux
 *sharing*
 * [https://gitlab.com/timvisee/ffsend]ffsend - Easily and securely share files from the command line. A fully featured Firefox Send client
 
-*tools*
+*web tools*
 
 * [Geekflare Tools](https://gf.dev/toolbox) - Toolbox for DNS, HTTP, Headers and other stuff.
 * [SecLists](https://github.com/danielmiessler/SecLists) - A collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
