@@ -94,10 +94,12 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [The uncomplicated firewall](https://www.lullabot.com/articles/the-uncomplicated-firewall)
 * [Iptables boilerplate](https://github.com/bmaeser/iptables-boilerplate)
 
-*OpenVPN*
-* [openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch 
-Linux
+*VPN*
+* [openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux
 * [pritunl client](https://client.pritunl.com/) - Free and open source cross platform OpenVPN client
+* [Netbird](https://github.com/netbirdio/netbird) - a WireGuard-based overlay network that automatically connects your machines over an encrypted tunnel, leaving behind the hassle of opening ports, complex firewall rules, VPN gateways, and so fort
+* [Tailscale](https://tailscale.com/) - Wireguard-based service.
+* [openfortivpn](https://github.com/adrienverge/openfortivpn) - a client for PPP+TLS VPN tunnel services. It spawns a pppd process and operates the communication between the gateway and this process, also compatible with Fortinet VPNs.
 
 *2FA*
 * [https://authy.com/](https://authy.com/)
@@ -192,6 +194,7 @@ Linux
 * [Let's Encrypt](https://letsencrypt.org/) - Free, automated and open Certificate Authority.
 * [Symantec Crypto Report](https://cryptoreport.websecurity.symantec.com/checker/) - Check your SSL/TLS certificate installation.
 * [SSL Server Test](https://dev.ssllabs.com/ssltest) - This free online service performs a deep analysis of the configuration of any SSL web server on the public Internet.
+* [SSL Toolbox Certera](https://certera.com/ssl-tools) - The Certera's SSL toolbox.
 
 ## DNS
 *dns tools*
