@@ -98,8 +98,12 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux
 * [pritunl client](https://client.pritunl.com/) - Free and open source cross platform OpenVPN client
 * [Netbird](https://github.com/netbirdio/netbird) - a WireGuard-based overlay network that automatically connects your machines over an encrypted tunnel, leaving behind the hassle of opening ports, complex firewall rules, VPN gateways, and so fort
-* [Tailscale](https://tailscale.com/) - Wireguard-based service.
 * [openfortivpn](https://github.com/adrienverge/openfortivpn) - a client for PPP+TLS VPN tunnel services. It spawns a pppd process and operates the communication between the gateway and this process, also compatible with Fortinet VPNs.
+
+*ZTNA*
+* [ZTNA vendor directory](https://zerotrustnetworkaccess.info/#vendors) - The no-bullshit ZTNA vendor directory
+* [Tailscale](https://tailscale.com/) - ZTNA Wireguard-based service.
+
 
 *2FA*
 * [https://authy.com/](https://authy.com/)
@@ -151,6 +155,12 @@ Amazing resources for crazy sysadmins && Drupal lovers
 *Resources related to Hiawatha web server*
 
 * [Official site](https://www.hiawatha-webserver.org/) - An advanced and secure webserver for Unix
+
+### Caddy
+*Resources related to Caddy web server*
+
+* [Official site](https://caddyserver.com/) - Caddy: the ultimate web server.
+
 
 ## PHP
 *Resources related to PHP*
