@@ -22,6 +22,8 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [Vultr](https://www.vultr.com/)
 * [Virpus](http://virpus.com/)
 * [OVH](https://www.ovh.es/)
+* [Hetznet Storage Box ](https://www.hetzner.com/storage/storage-box/) Quick, secure and convenient storage solution that lets you access your files via various protocols and locations. 
+* [Borgbase](https://www.borgbase.com/) Simple and Secure Offsite Backups, borg & borgmatic compatible.
 
 ## Linux
 *Resources for Linux Sysadmins* 🐧
@@ -58,6 +60,9 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [.tmux](https://github.com/gpakosz/.tmux) Self-contained, pretty and versatile .tmux.conf configuration file.
 * [Mosh - The mobile shell](https://mosh.org/).Remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line editing of user keystrokes.
 * [scrutiny](https://github.com/AnalogJ/scrutiny) - WebUI for smartd S.M.A.R.T monitoring
+* [automydumper](https://automydumper.github.io/) - Automates taking MySQL backups by providing automatic cron-based backups, retention cleanups and email notifications, amongst other things.
+* [tmate](https://tmate.io/) - tmate is a fork of tmux. tmate and tmux can coexist on the same system. tmate is used for remote access only (as opposed to pair programming), it is useful to launch tmate in foreground mode with tmate -F.
+* [jailkit](https://olivier.sessink.nl/jailkit/) -  A set of utilities to enhance the possibilities of chroot jails. 
 
 
 
@@ -98,32 +103,27 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux
 * [pritunl client](https://client.pritunl.com/) - Free and open source cross platform OpenVPN client
 * [Netbird](https://github.com/netbirdio/netbird) - a WireGuard-based overlay network that automatically connects your machines over an encrypted tunnel, leaving behind the hassle of opening ports, complex firewall rules, VPN gateways, and so fort
+* [Tailscale](https://tailscale.com/) - Wireguard-based service.
+* [wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to install & manage WireGuard on any Linux host!
 * [openfortivpn](https://github.com/adrienverge/openfortivpn) - a client for PPP+TLS VPN tunnel services. It spawns a pppd process and operates the communication between the gateway and this process, also compatible with Fortinet VPNs.
-
-*ZTNA*
-* [ZTNA vendor directory](https://zerotrustnetworkaccess.info/#vendors) - The no-bullshit ZTNA vendor directory
-* [Tailscale](https://tailscale.com/) - ZTNA Wireguard-based service.
-
+* [ZeroTier](https://www.zerotier.com/) - Connect all of your devices on a single network that you provision and control.
 
 *2FA*
 * [https://authy.com/](https://authy.com/)
 
 *sharing*
 * [https://gitlab.com/timvisee/ffsend]ffsend - Easily and securely share files from the command line. A fully featured Firefox Send client
+* [sendsafely](https://www.sendsafely.com/) - The end-to-end encryption platform for modern business
+* [onetimesecret](https://onetimesecret.com/) - A way to share sensitive information that's both simple and secure.
+* [ffsend](https://github.com/timvisee/ffsend) - Easily and securely share files and directories from the command line through a safe, private and encrypted link using a single simple command.
+* [sharedrop](https://www.sharedrop.io/) - ShareDrop is a peer-to-peer file sharing app powered by HTML5 WebRTC.
 
 *web tools*
 
 * [Geekflare Tools](https://gf.dev/toolbox) - Toolbox for DNS, HTTP, Headers and other stuff.
 * [SecLists](https://github.com/danielmiessler/SecLists) - A collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
-* [sendsafely](https://www.sendsafely.com/) - The end-to-end encryption platform for modern business
-* [onetimesecret](https://onetimesecret.com/) - A way to share sensitive information that's both simple and secure.
-* [ffsend](https://github.com/timvisee/ffsend) - Easily and securely share files and directories from the command line through a safe, private and encrypted link using a single simple command.
-* [sharedrop](https://www.sharedrop.io/) - ShareDrop is a peer-to-peer file sharing app powered by HTML5 WebRTC.
-* [tmate](https://tmate.io/) - tmate is a fork of tmux. tmate and tmux can coexist on the same system. tmate is used for remote access only (as opposed to pair programming), it is useful to launch tmate in foreground mode with tmate -F. 
 * [xpipe](https://github.com/xpipe-io/xpipe) - A new type of shell connection hub and remote file manager that allows you to access your entire sever infrastructure from your local machine.
 * [QuickRef.ME](https://quickref.me/) - Here are some cheatsheets and quick references contributed by open source angels.
-
-
 
 
 ## Hacking
@@ -155,12 +155,6 @@ Amazing resources for crazy sysadmins && Drupal lovers
 *Resources related to Hiawatha web server*
 
 * [Official site](https://www.hiawatha-webserver.org/) - An advanced and secure webserver for Unix
-
-### Caddy
-*Resources related to Caddy web server*
-
-* [Official site](https://caddyserver.com/) - Caddy: the ultimate web server.
-
 
 ## PHP
 *Resources related to PHP*
