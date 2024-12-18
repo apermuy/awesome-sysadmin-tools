@@ -150,6 +150,7 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [Nginx reverse proxy with Odoo](http://www.schenkels.nl/2014/12/reverse-proxy-with-odoo-8-nginx-ubuntu-14-04-lts/)
 * [NginxConfig.io ](https://nginxconfig.io/)  
 * [A Guide to Caching with NGINX and NGINX Plus](https://www.nginx.com/blog/nginx-caching-guide/)
+* [awesome-nginx-security] A curated list of awesome links related to application security related to the environments with NGINX (https://github.com/wallarm/awesome-nginx-security?tab=readme-ov-file)
 
 ### Hiawatha
 *Resources related to Hiawatha web server*
