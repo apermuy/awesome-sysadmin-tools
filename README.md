@@ -62,7 +62,8 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [scrutiny](https://github.com/AnalogJ/scrutiny) - WebUI for smartd S.M.A.R.T monitoring
 * [automydumper](https://automydumper.github.io/) - Automates taking MySQL backups by providing automatic cron-based backups, retention cleanups and email notifications, amongst other things.
 * [tmate](https://tmate.io/) - tmate is a fork of tmux. tmate and tmux can coexist on the same system. tmate is used for remote access only (as opposed to pair programming), it is useful to launch tmate in foreground mode with tmate -F.
-* [jailkit](https://olivier.sessink.nl/jailkit/) -  A set of utilities to enhance the possibilities of chroot jails. 
+* [jailkit](https://olivier.sessink.nl/jailkit/) -  A set of utilities to enhance the possibilities of chroot jails.
+* [zenith](https://github.com/bvaisvil/zenith) - Terminal graphical metrics for your *nix system written in Rust
 
 
 
