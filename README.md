@@ -46,6 +46,8 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [fish](https://fishshell.com/) - A smart and user-friendly command line shell for Linux, macOS, and the rest of the family.
 * [omyzsh](https://ohmyz.sh/) - a delightful, open source, community-driven framework for managing your Zsh configuration.
 * [elvish](https://elv.sh/) - An expressive programming language and a versatile interactive shell, combined into one seamless package. It runs on Linux, BSDs, macOS and Windows.
+* [starfish](https://starship.rs/) - The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+* [awsm.fish](https://github.com/jorgebucaran/awsm.fish) - Ultimate treasure trove of handpicked plugins, prompts, and other Fish goodies.
 
 *Packages and tools: simplify our daily work*
 
@@ -57,15 +59,13 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [dutree](https://github.com/nachoparker/dutree) - a tool to analyze file system usage written in Rust
 * [gdu](https://github.com/dundee/gdu) - Pretty fast disk usage analyzer written in Go.
 * [dufs](https://github.com/sigoden/dufs) - a distinctive utility file server that supports static serving, uploading, searching, accessing control, webdav.
-* [.tmux](https://github.com/gpakosz/.tmux) Self-contained, pretty and versatile .tmux.conf configuration file.
+* [tmux](https://github.com/gpakosz/.tmux) Self-contained, pretty and versatile .tmux.conf configuration file.
 * [Mosh - The mobile shell](https://mosh.org/).Remote terminal application that allows roaming, supports intermittent connectivity, and provides intelligent local echo and line editing of user keystrokes.
 * [scrutiny](https://github.com/AnalogJ/scrutiny) - WebUI for smartd S.M.A.R.T monitoring
 * [automydumper](https://automydumper.github.io/) - Automates taking MySQL backups by providing automatic cron-based backups, retention cleanups and email notifications, amongst other things.
 * [tmate](https://tmate.io/) - tmate is a fork of tmux. tmate and tmux can coexist on the same system. tmate is used for remote access only (as opposed to pair programming), it is useful to launch tmate in foreground mode with tmate -F.
 * [jailkit](https://olivier.sessink.nl/jailkit/) -  A set of utilities to enhance the possibilities of chroot jails.
 * [zenith](https://github.com/bvaisvil/zenith) - Terminal graphical metrics for your *nix system written in Rust
-
-
 
 ## DeepWeb
 
@@ -113,7 +113,7 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [https://authy.com/](https://authy.com/)
 
 *sharing*
-* [https://gitlab.com/timvisee/ffsend]ffsend - Easily and securely share files from the command line. A fully featured Firefox Send client
+* [https://gitlab.com/timvisee/ffsend](ffsend) - Easily and securely share files from the command line. A fully featured Firefox Send client
 * [sendsafely](https://www.sendsafely.com/) - The end-to-end encryption platform for modern business
 * [onetimesecret](https://onetimesecret.com/) - A way to share sensitive information that's both simple and secure.
 * [ffsend](https://github.com/timvisee/ffsend) - Easily and securely share files and directories from the command line through a safe, private and encrypted link using a single simple command.
