@@ -66,6 +66,7 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [tmate](https://tmate.io/) - tmate is a fork of tmux. tmate and tmux can coexist on the same system. tmate is used for remote access only (as opposed to pair programming), it is useful to launch tmate in foreground mode with tmate -F.
 * [jailkit](https://olivier.sessink.nl/jailkit/) -  A set of utilities to enhance the possibilities of chroot jails.
 * [zenith](https://github.com/bvaisvil/zenith) - Terminal graphical metrics for your *nix system written in Rust
+* [nala](https://packages.debian.org/search?keywords=nala) - Commandline frontend for the APT package manager
 
 ## DeepWeb
 
