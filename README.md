@@ -202,6 +202,7 @@ Amazing resources for crazy sysadmins && Drupal lovers
 * [Symantec Crypto Report](https://cryptoreport.websecurity.symantec.com/checker/) - Check your SSL/TLS certificate installation.
 * [SSL Server Test](https://dev.ssllabs.com/ssltest) - This free online service performs a deep analysis of the configuration of any SSL web server on the public Internet.
 * [SSL Toolbox Certera](https://certera.com/ssl-tools) - The Certera's SSL toolbox.
+* [ZoneBI](https://zonebi.com/en/?src=github-sysadmin-tools-en-01) - Watches SSL certificates from outside (expiry, name match, chain) along with DNS, domain expiry and SPF/DKIM/DMARC, and alerts before they break.
 
 ## DNS
 *dns tools*
